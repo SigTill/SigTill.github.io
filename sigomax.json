@@ -87,6 +87,22 @@
               }
             },
             {
+              "type": "image",
+              "url": "https://i.vimeocdn.com/video/608265613_295x166.webp",
+              "style": {
+                "width": "50",
+                "height": "50",
+                "corner_radius": "25"
+            },
+            {
+              "type": "label",
+              "text": "December 16, 2016",
+              "href": {
+                "url": "https://vimeo.com/album/4311048/video/195924183",
+                "view": "web"
+              }
+            },
+            {
               "type": "label",
               "style": {
                 "align": "right",
