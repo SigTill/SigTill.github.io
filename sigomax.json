@@ -1,4 +1,3 @@
-
 {
   "$jason": {
     "head": {
@@ -71,8 +70,8 @@
                 "color": "#000000",
                 "font": "HelveticaNeue",
                 "size": "12"
-              },
-             
+              }
+            }, 
             {
               "type": "label",
               "text": "Alle FME webinar",
@@ -97,20 +96,21 @@
                 "color": "#000000",
                 "font": "HelveticaNeue",
                 "size": "12"
-              },
+              }
+            },
             {
               "text": "Check out Live DEMO",
               "href": {
                 "url": "https://jasonette.github.io/Jasonpedia/demo.json",
                 "fresh": "true"
-              
+              }
             },
             {
               "text": "Watch the tutorial video",
               "href": {
                 "url": "https://www.youtube.com/watch?v=hfevBAAfCMQ",
                 "view": "Web"
-              
+              }
             },
             {
               "type": "label",
