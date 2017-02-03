@@ -34,30 +34,11 @@
               "components": [
                 {
                   "type": "label",
-                  "text": "It's ALIVE!",
+                  "text": "Norkart sine webinarer",
                   "style": {
                     "align": "center",
                     "font": "Courier-Bold",
                     "size": "18"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "Sigbjørn! This is a demo app. You can make your own app by changing the url inside settings.plist",
-                  "style": {
-                    "align": "center",
-                    "font": "Courier",
-                    "padding": "30",
-                    "size": "14"
-                  }
-                },
-                {
-                  "type": "label",
-                  "text": "{ ˃̵̑ᴥ˂̵̑}",
-                  "style": {
-                    "align": "center",
-                    "font": "HelveticaNeue-Bold",
-                    "size": "50"
                   }
                 }
               ]
