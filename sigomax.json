@@ -72,13 +72,7 @@
                 "font": "HelveticaNeue",
                 "size": "12"
               },
-             {
-              "text": "Check out Live DEMO",
-              "href": {
-                "url": "https://jasonette.github.io/Jasonpedia/demo.json",
-                "fresh": "true"
-              }
-            },
+             ,
             {
               "type": "label",
               "text": "Alle FME webinar",
@@ -86,14 +80,6 @@
                 "url": "https://vimeo.com/album/4311048",
                 "view": "web"
               }
-            },
-            {
-              "type": "image",
-              "url": "https://i.vimeocdn.com/video/608265613_295x166.webp",
-              "style": {
-                "width": "50",
-                "height": "50",
-                "corner_radius": "25"
             },
             {
               "type": "label",
@@ -112,6 +98,13 @@
                 "font": "HelveticaNeue",
                 "size": "12"
               },
+            {
+              "text": "Check out Live DEMO",
+              "href": {
+                "url": "https://jasonette.github.io/Jasonpedia/demo.json",
+                "fresh": "true"
+              
+            },
             {
               "text": "Watch the tutorial video",
               "href": {
